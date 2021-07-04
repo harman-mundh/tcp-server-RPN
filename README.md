@@ -1,2 +1,2 @@
 # tcp-server-RPN
-TCP server that calculated RPN notation and send back to client
+TCP server that calculates RPN notation and sends results back to client
